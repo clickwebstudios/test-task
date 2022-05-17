@@ -1,0 +1,17 @@
+{
+    "": "\/",
+    "admin.index": "admin\/{any?}",
+    "auth.index": "login",
+    "api.auth.login": "api\/auth\/auth\/login",
+    "api.auth.logout": "api\/auth\/auth\/logout",
+    "api.store.global.get": "store\/global\/get",
+    "api.payment.checkout": "auth\/payment\/checkout",
+    "api.payment.getPayments": "auth\/payment\/getPayments",
+    "api.payment.store": "auth\/payment\/store",
+    "api.payment.setDefault": "auth\/payment\/setDefault\/{userPayment}",
+    "api.payment.delete": "auth\/payment\/delete\/{userPayment}",
+    "api.user.checkoutCoins": "user\/checkoutCoins",
+    "api.user.generateAccessToken": "user\/generateAccessToken",
+    "api.user.logs": "user\/logs",
+    "apiexternal.metadata": "metadata"
+}

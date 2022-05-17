@@ -1,0 +1,20 @@
+
+
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 1170px,
+  xl: 1460px
+) !default;
+
+$container-max-widths: (
+  sm: 768px,
+  md: 1200px,
+  lg: 1400px,
+  xl: 1420px
+) !default;

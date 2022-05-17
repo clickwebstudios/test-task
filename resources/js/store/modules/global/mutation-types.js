@@ -1,0 +1,2 @@
+export const FETCH_USER = 'FETCH_USER';
+export const FETCH_GLOBAL_STORE_LOAD = 'FETCH_GLOBAL_STORE_LOAD';
